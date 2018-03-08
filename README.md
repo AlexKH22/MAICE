@@ -6,3 +6,4 @@ https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Pro
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY<br />
 https://www.w3schools.com/js/default.asp<br />
 https://fezvrasta.github.io/bootstrap-material-design/<br />
+https://designshack.net/articles/ux-design/google-material-design-everything-you-need-to-know/<br />
