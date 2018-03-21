@@ -3,5 +3,4 @@
 1. Download Docker <br />
 2. Download config.json from this repository <br />
 3. Run the following commands: <br />
-docker run -d -p 6080:6080 --name hound -v $(pwd):/data etsy/hound <br />
-docker run etsy/hound <br />
+docker run -d -p 6080:6080 etsy/hound <br />
