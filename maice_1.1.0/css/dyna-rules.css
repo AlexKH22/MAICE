@@ -9,7 +9,7 @@ body {
     }
 #diff {
     border: 0;
-    border-top: 1px solid #eee;
+    border-top: 1px solid rgb(231, 22, 22);
     flex-grow: 1;
     margin: 0;
     padding: 0;
@@ -40,7 +40,7 @@ body {
     text-align: center;
     }
 #ruleFilter .fa {
-    color: #888;
+    color: rgb(60, 153, 75);
     }
 #revertButton,
 #commitButton,
@@ -71,7 +71,7 @@ body {
     color: #888;
     }
 #diff.editing .CodeMirror-merge-editor .CodeMirror {
-    background-color: #ffe;
+    background-color: rgb(34, 104, 196);
     }
 body[dir="rtl"] .CodeMirror-merge-pane-rightmost {
     right: unset;

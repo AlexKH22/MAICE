@@ -22,8 +22,8 @@ html, body {
     }
 #dashboard-nav-widgets {
     align-items: stretch;
-    background-color: white;
-    border-bottom: 1px solid #ccc;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(226, 18, 18);
     display: flex;
     margin: 0;
     padding: 4px 0 0;
