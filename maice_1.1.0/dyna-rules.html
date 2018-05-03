@@ -33,16 +33,22 @@
                 <button type="button" class="custom iconifiable important disabled" id="editSaveButton"><span class="fa">&#xf0c7;</span><span data-i18n="rulesEditSave"></span></button>
             </div>
             <div id="ruleFilter"><span class="fa">&#xf0b0;</span>&ensp;<input type="text" size="20"></div>
-            <p>please select categories to filter: </p>&ensp;
-            <input type="checkbox" id="f1"><label>MOVIE</label>&ensp;
-            <input type="checkbox" id="f2"><label>SPORT</label>&ensp;
-            <input type="checkbox" id="f3"><label>GADGET</label>&ensp;
-            <input type="checkbox" id="f4"><label>FASION</label>&ensp;
-            <input type="checkbox" id="f5"><label>FOOD</label>&ensp;
+            <div class="categories">
+                <p class="prompt" style="margin-left: -5%;">Please select categories to filter: </p>&ensp;
+                <input type="checkbox" id="f1" class="pref"><label class="la">MOVIE</label>&ensp;
+                <input type="checkbox" id="f2" class="pref"><label class="la">SPORT</label>&ensp;
+                <input type="checkbox" id="f3" class="pref"><label class="la">GADGET</label>&ensp;
+                <input type="checkbox" id="f4" class="pref"><label class="la">FASHION</label>&ensp;
+                <input type="checkbox" id="f5" class="pref"><label class="la">FOOD</label>&ensp;
+            </div>
         </div>
     </div>
 </div>
-<div class="codeMirrorContainer codeMirrorMergeContainer codeMirrorFillVertical"></div>
+<div style="height: 120px; width: 800px;">
+
+</div>
+<div class="codeMirrorContainer codeMirrorMergeContainer codeMirrorFillVertical" style="height: 200px; width: 800px;">
+</div>
 
 <div id="templates" style="display: none;">
     <input class="hidden" id="importFilePicker" type="file" accept="text/plain">

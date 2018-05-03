@@ -56,8 +56,31 @@ body {
     pointer-events: auto;
     }
 
+.pref {
+        -webkit-transform: scale(2);
+        margin-top: 0px;
+        margin-left: 50px;
+        margin-right: 10px;
+        vertical-align: bottom;
+        position: relative;
+        top: -3px;
+        overflow: hidden;
+}
+
+.la {
+    font-size: 25px;
+}
+
+.categories{
+    margin-left: 20%;
+}
+
 .codeMirrorContainer {
-    height: 60vh;
+    /*height: 60vh;*/
+    height: 192px;
+    width: 800px;
+    margin-left: 25%;
+    margin-top: -5%;
     }
 .CodeMirror-merge, .CodeMirror-merge-pane, .CodeMirror-merge .CodeMirror {
     box-sizing: border-box;
@@ -76,4 +99,9 @@ body {
 body[dir="rtl"] .CodeMirror-merge-pane-rightmost {
     right: unset;
     left: 0;
+}
+p.prompt {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
