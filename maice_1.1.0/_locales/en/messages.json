@@ -4,7 +4,7 @@
     "description":"extension name."
   },
   "extShortDesc":{
-    "message":"Finally, an efficient blocker. Easy on CPU and memory.",
+    "message":"Finally, an efficient blocker that allows you to choose Ads you like while getting paid.",
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
