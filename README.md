@@ -1,5 +1,7 @@
 # MAICE
-An online ad marketplace where people can sell their own ad spaces enriched with verified personal information, which incentivizes advertisers.
+to install our plugin, download maice_1.1.1.zip and load it into the browser as extension in development mode.
+
+We are crafting a digital advertising paradigm where users control their data, see only relevant ads, and get paid for their participation.
 
 Helpful Resources:<br />
 https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Programming-introduction-materials<br />
